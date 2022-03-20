@@ -1,0 +1,23 @@
+/*
+*{
+  border:solid 1px gray;
+}
+*/
+.green{
+  color:lightgreen;
+}
+.blue{ color:lightcoral;}
+.red{ color:skyblue;}
+
+
+.list-group{
+  font-size:1.5rem;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
